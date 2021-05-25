@@ -15,3 +15,7 @@
   height: 100%;
   width: 100%;
 }
+
+.coin_input::placeholder {
+  color: #e2e2e267;
+}
