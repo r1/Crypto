@@ -1,5 +1,5 @@
 import Layout from '../../components/Layout';
-import styles from './Coin.module.css';
+import styles from './Coins.module.css';
 
 const Coin = ({ coin }) => {
   return (
